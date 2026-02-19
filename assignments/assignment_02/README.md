@@ -32,9 +32,15 @@ total 1748
 [40 wlstanziano@bora ~/SUPERCOMPUTING/assignments/assignment_02/data ]$
 
 #md5sum
+#local
 william:data$ md5sum GCF_000005845.2_ASM584v2_genomic.fna.gz GCF_000005845.2_ASM584v2_genomic.gff.gz
 c13d459b5caa702ff7e1f26fe44b8ad7  GCF_000005845.2_ASM584v2_genomic.fna.gz
 2238238dd39e11329547d26ab138be41  GCF_000005845.2_ASM584v2_genomic.gff.gz
+#hpc
+william:~$ md5sum GCF_000005845.2_ASM584v2_genomic.fna.gz GCF_000005845.2_ASM584v2_genomic.gff.gz
+c13d459b5caa702ff7e1f26fe44b8ad7  GCF_000005845.2_ASM584v2_genomic.fna.gz
+2238238dd39e11329547d26ab138be41  GCF_000005845.2_ASM584v2_genomic.gff.gz
+
 
 #aliases
 u - takes you up one directory, clears your terminal screen, shows where you are in your files, and shows contents
