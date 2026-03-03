@@ -5,6 +5,9 @@
 
 # set variable "N" to be number of bases to chop
 
+# set data directory
+DATA_DIR="sci *NO IDEA*
+
 # chop up the data files
 ./scripts/chop_files.sh $1
 
