@@ -1,0 +1,7 @@
+# ignore data directories
+data/
+log/
+
+# ignore tar stuff
+*.gz
+*.tar
