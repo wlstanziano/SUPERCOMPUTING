@@ -3,7 +3,6 @@
 # Assignment 5
 
 
-
 #1
 mkdir data
 cd data
@@ -105,4 +104,3 @@ data/
 # ignore tar stuff              
 *.gz
 *.tar
-
